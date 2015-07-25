@@ -69,7 +69,11 @@ public class hairetuSort : MonoBehaviour {
 		{7,17,39,0},
 		{8,32,16,0},
 		{9,30,21,0},
+<<<<<<< HEAD
 		// *** さ
+=======
+		// 
+>>>>>>> 503cbf2cec270e27ae97548e502b052525b19009
 
 		
 	};
